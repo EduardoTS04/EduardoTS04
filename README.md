@@ -11,7 +11,7 @@ Hola👋, Soy  [Julio Eduardo Tapia Solis](https://github.com/EduardoTS04)
 <h1 align="center">TECHNOLOGY</h1>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,MySQL,py,wordpress,vscode,djangovim" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,mysql,py,wordpress,vscode,djangovim" />
 </p>
 
 ---
