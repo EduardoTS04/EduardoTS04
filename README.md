@@ -36,7 +36,7 @@
 
 <h1 align="center">PROYECTOS</h1>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoTS04&repo=Proyecto_Creacion_de_escena_con_OpenGL)](https://github.com/EduardoTS04/Proyecto_Creacion_de_escena_con_OpenGL.git)
+
 
 
 ---
