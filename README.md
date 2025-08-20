@@ -1,19 +1,11 @@
 Hola👋, Soy  [Julio Eduardo Tapia Solis](https://github.com/EduardoTS04)
 
-Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.Intern at TheSmartbridge in Machine learning and deep learning and experienced real time Industry projects.
-
-
-"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
-
-
+👋 Hola, soy Julio Eduardo Tapia
 
  <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-**Educación/habilidades:**
+🎓 Estudiante de Ingeniería Informática en la Universidad Nacional de Trujillo.
+💻 Apasionado por el desarrollo back-end y la creación de aplicaciones web escalables.
+🐍 Trabajo principalmente con Python, Django y MySQL, y tengo experiencia en Java y C++.
 
-- 🎓 Estudiante de Ing. Informatica
-- Python , Java, C++
-- Django
-- Mysql
-- libraries: Numpy, Pandas, Matplotlib
 
