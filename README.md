@@ -14,7 +14,5 @@ Hola👋, Soy  [Julio Eduardo Tapia Solis](https://github.com/EduardoTS04)
     <img src="https://skillicons.dev/icons?i=cpp,java,mysql,py,wordpress,vscode,django" />
 </p>
 
----
----
----
+<img src="https://media.giphy.com/media/xyz123/giphy.gif" alt="GIF animado" width="400">
 
