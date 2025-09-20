@@ -40,7 +40,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoTS04&repo=Red_lan_python&cache_seconds=60)](https://github.com/EduardoTS04/Red_lan_python)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoTS04&repo=Proyecto_Creacion_de_escena_con_OpenGL&cache_seconds=60)](https://github.com/EduardoTS04/EscenaOpengl2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoTS04&repo=EscenaOpengl2&cache_seconds=60)](https://github.com/EduardoTS04/EscenaOpengl2)
 
 
 ---
