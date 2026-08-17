@@ -32,7 +32,7 @@ Enfocado en desarrollo backend, arquitectura de sistemas y aplicaciones web esca
 
 ## 🚀 Proyectos destacados
 
-### [ITSM GenIA](https://github.com/EduardoTS04/TU-REPO-ITSM)
+### [ITSM GenIA](https://github.com/EduardoTS04/ITSM_GenIA)
 Asistente de gestión de incidentes de TI con un pipeline de 4 agentes GenAI (clasificación, priorización, respuesta de soporte y análisis de causa raíz) sobre Ollama, expuesto vía una API FastAPI con arquitectura por capas (dominio, aplicación, infraestructura) y trazabilidad completa de cada llamada al modelo.
 
 `FastAPI` · `SQLAlchemy` · `Alembic` · `Ollama` · `Pytest` · `React` · `Docker`
