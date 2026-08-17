@@ -37,8 +37,9 @@ Asistente de gestión de incidentes de TI con un pipeline de 4 agentes GenAI (cl
 
 `FastAPI` · `SQLAlchemy` · `Alembic` · `Ollama` · `Pytest` · `React` · `Docker`
 
-### [Red LAN — Python](https://github.com/EduardoTS04/Red_lan_python)
-Simulación/implementación de una red LAN usando Python.
+### [Traductor en tiempo Real](https://github.com/EduardoTS04/english-spanish-live-translator)
+
+Traductor en tiempo real hecho con python.
 
 `Python` · `Networking`
 
