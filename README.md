@@ -6,7 +6,7 @@
 Enfocado en desarrollo backend, arquitectura de sistemas y aplicaciones web escalables.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-eduardo-tapia-solis-6446b9345/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](eduardo_tapia_4@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:eduardo_tapia_4@hotmail.com)
 
 </div>
 
