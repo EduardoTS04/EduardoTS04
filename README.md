@@ -1,51 +1,80 @@
-<p align="center">
-  <img src="https://i.gifer.com/xK.gif" alt="GIF animado" width="100%" height="300">
+<div align="center">
+
+# Hola, soy Julio Eduardo Tapia Solis 👋
+
+**Estudiante de Ingeniería Informática — Universidad Nacional de Trujillo**
+Enfocado en desarrollo backend, arquitectura de sistemas y aplicaciones web escalables.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+
+</div>
+
+---
+
+## 🧭 Sobre mí
+
+- 🎓 Cursando Ingeniería Informática, con interés particular en sistemas backend, arquitectura limpia y automatización con IA.
+- 🛠️ Actualmente construyendo proyectos que combinan APIs, bases de datos y modelos de lenguaje aplicados a casos de uso reales.
+- 📚 Aprendiendo activamente: buenas prácticas de arquitectura de software, testing, CI/CD y despliegue de aplicaciones.
+- 🤝 Abierto a oportunidades de práctica profesional o primer empleo como backend developer.
+
+---
+
+## 🧰 Stack tecnológico
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,django,fastapi,mysql,postgres,docker,git,vscode" />
 </p>
 
+---
 
-# Hola👋, Soy [Julio Eduardo Tapia Solis](https://github.com/EduardoTS04)
+## 🚀 Proyectos destacados
 
+### [ITSM GenIA](https://github.com/EduardoTS04/TU-REPO-ITSM)
+Asistente de gestión de incidentes de TI con un pipeline de 4 agentes GenAI (clasificación, priorización, respuesta de soporte y análisis de causa raíz) sobre Ollama, expuesto vía una API FastAPI con arquitectura por capas (dominio, aplicación, infraestructura) y trazabilidad completa de cada llamada al modelo.
 
+`FastAPI` · `SQLAlchemy` · `Alembic` · `Ollama` · `Pytest` · `React` · `Docker`
 
-- 🎓 Estudiante de Ingeniería Informática en la Universidad Nacional de Trujillo.
-- 💻 Apasionado por el desarrollo back-end y la creación de aplicaciones web escalables.
+### [Red LAN — Python](https://github.com/EduardoTS04/Red_lan_python)
+Simulación/implementación de una red LAN usando Python.
 
+`Python` · `Networking`
+
+### [Creación de escena con OpenGL](https://github.com/EduardoTS04/Proyecto_Creacion_de_escena_con_OpenGL)
+Escena 3D construida con OpenGL, explorando renderizado y gráficos por computadora.
+
+`C++` · `OpenGL`
+
+### [Escena OpenGL 2](https://github.com/EduardoTS04/EscenaOpengl2)
+Segunda iteración del proyecto de gráficos, con mejoras sobre la escena original.
+
+`C++` · `OpenGL`
 
 ---
 
-<h1 align="center">TECNOLOGIAS</h1>
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,mysql,py,wordpress,vscode,django" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoTS04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EduardoTS04&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoTS04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EduardoTS04&style=flat&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
-<h1 align="center">STATS</h1>
+<div align="center">
+<sub>Gracias por visitar mi perfil ⭐</sub>
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=EduardoTS04" alt="ravisolanki" /> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoTS04&theme=gotham&show_icons=true" alt="ravisolanki" />
-
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=EduardoTS04&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ravisolanki" />
-
-
-
-
----
-
-<h1 align="center">PROYECTOS</h1>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoTS04&repo=Proyecto_Creacion_de_escena_con_OpenGL&cache_seconds=60)](https://github.com/EduardoTS04/Proyecto_Creacion_de_escena_con_OpenGL)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoTS04&repo=Red_lan_python&cache_seconds=60)](https://github.com/EduardoTS04/Red_lan_python)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoTS04&repo=EscenaOpengl2&cache_seconds=60)](https://github.com/EduardoTS04/EscenaOpengl2)
-
-
----
-
-<p align="center"><img src="https://i.gifer.com/79Q7.gif" alt="GIF animado" width="500"></p>
 
 
 
